@@ -329,29 +329,32 @@ nav{
 top-section .container{
     display: flex;
     flex-direction: row;
-    margin-left: -200px;
+    margin-left: -249px;
+    justify-content: space-evenly;
 }
 .top-container{
     display: flex;
     flex-direction: column;
+    width:20%;
 }
 .bottom-container{
     display: flex;
     flex-direction: column;
-    margin-left: -130px;
+    width:20%;
+    margin-left: 30px;
 }
 .card{
     text-align:center;
     margin-left: 220px;
     margin-top:30px;
-    width:110px;
-    height:118px;
+    width:130px;
+    height:130px;
     color:white;
-    border-radius: 20px;
+    border-radius: 22px;
 }
 .card-body{
     text-align: center;
-    line-height:180px;
+    line-height:210px;
 }
 .container2{
     display: flex;
@@ -513,29 +516,32 @@ nav{
 top-section .container{
     display: flex;
     flex-direction: row;
-    margin-left: -203px;
+    margin-left: -246px;
+    justify-content: space-evenly;
 }
 .top-container{
     display: flex;
     flex-direction: column;
+    width:20%;
 }
 .bottom-container{
     display: flex;
     flex-direction: column;
-    margin-left: -140px;
+    width:20%;
+    margin-left: 30px;
 }
 .card{
     text-align:center;
     margin-left: 220px;
     margin-top:30px;
     width:130px;
-    height:128px;
+    height:130px;
     color:white;
     border-radius: 22px;
 }
 .card-body{
     text-align: center;
-    line-height:200px;
+    line-height:210px;
 }
 .container2{
     margin-top: 50px;
@@ -694,29 +700,32 @@ nav{
 top-section .container{
     display: flex;
     flex-direction: row;
-    margin-left: -203px;
+    margin-left: -245px;
+    justify-content: space-evenly;
 }
 .top-container{
     display: flex;
     flex-direction: column;
+    width:20%;
 }
 .bottom-container{
     display: flex;
     flex-direction: column;
-    margin-left: -140px;
+    width:20%;
+    margin-left: 50px;
 }
 .card{
     text-align:center;
     margin-left: 220px;
     margin-top:30px;
     width:130px;
-    height:128px;
+    height:130px;
     color:white;
     border-radius: 22px;
 }
 .card-body{
     text-align: center;
-    line-height:200px;
+    line-height:210px;
 }
 .container2{
     margin-top: 50px;
@@ -876,29 +885,32 @@ nav{
 top-section .container{
     display: flex;
     flex-direction: row;
-    margin-left: -178px;
+    margin-left: -240px;
+    justify-content: space-evenly;
 }
 .top-container{
     display: flex;
     flex-direction: column;
+    width:20%;
 }
 .bottom-container{
     display: flex;
     flex-direction: column;
-    margin-left: -130px;
+    width:20%;
+    margin-left: 50px;
 }
 .card{
     text-align:center;
     margin-left: 220px;
     margin-top:30px;
     width:130px;
-    height:128px;
+    height:130px;
     color:white;
     border-radius: 22px;
 }
 .card-body{
     text-align: center;
-    line-height:200px;
+    line-height:210px;
 }
 .container2{
     margin-top: 50px;
@@ -1066,7 +1078,7 @@ top-section .container{
 .bottom-container{
     display: flex;
     flex-direction: column;
-    margin-left: -60px;
+    margin-left: -40px;
 }
 .card{
     text-align:center;
